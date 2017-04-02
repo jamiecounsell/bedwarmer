@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('body').fadeIn();
+    $('body').fadeIn(1000);
 })
 
 $('.next').click(function() {
